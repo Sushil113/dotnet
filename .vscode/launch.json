@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "C#: testing [Default Configuration]",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/testing.csproj"
+        }
+    ]
+}
